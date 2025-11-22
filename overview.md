@@ -1,5 +1,6 @@
 # Project Overview
 
+
 This portfolio website was created as part of Assignment 4 in the course *Computer Science Fundamentals and Career Pathways*.  
 The objective of the assignment was to design, build, and upload a complete static website using HTML, CSS, VS Code, and Git/GitHub.
 
@@ -11,7 +12,10 @@ The portfolio showcases:
 - Skills with styled badges  
 - A list of 4 completed projects  
 - A contact form layout  
-- A polished theme  
+- A polished theme 
+ 
+## Project Purpose
+
 
 The purpose of this project is to demonstrate understanding of:
 
