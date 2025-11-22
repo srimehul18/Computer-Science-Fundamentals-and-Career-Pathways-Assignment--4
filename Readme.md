@@ -21,7 +21,8 @@ Features Include:
 ---
 ## Screenshots of Project
 <img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/8e7f453d-12a3-48ac-8053-a61b1b1e8976" />
-<img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/fbde4248-2d24-494b-85a2-db23dd27d57b" />
+<img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/6d8ffe24-f2b8-4f55-9ca1-423e0df96d73" />
+
 
 
 
