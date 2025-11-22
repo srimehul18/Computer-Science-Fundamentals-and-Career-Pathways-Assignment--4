@@ -1,6 +1,6 @@
 # Computer Science Fundamentals & Career Pathways — Assignment 4  
 ### Portfolio Website (HTML + CSS)
-## Screenshots will be added here.
+#### Screenshots will be added here.
 
 
 This repository contains the source code and documentation for Assignment 4, completed as part of the *Computer Science Fundamentals and Career Pathways* course.
