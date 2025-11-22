@@ -47,6 +47,9 @@ While the portfolio meets all assignment requirements, several enhancements can 
 - Animated skill bars  
 - Page-load animation  
 
+### Add animations using pure CSS keyframes
+
+
 ---
 
 These improvements would turn the assignment project into a polished, fully professional portfolio website.
